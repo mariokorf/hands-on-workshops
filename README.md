@@ -19,6 +19,8 @@ If you have an idea for a workshop that is shorter than 40 minutes, no problem. 
 * Author in Markdown (we’ll publish in GitBook); do slides as a Google Presentation. 
 * Update this [spreadsheet](https://docs.google.com/spreadsheets/d/1IJX-_5f6sT04XKLluIglWK8PWDwk5ERZiACYPrJC7DA/edit#gid=0) so everyone knows who’s doing what.
 * Have your submissions in by Sept 15th so we have time to edit, approve, and get comments back to you. 
+* 
+* Google preson example
 
 
 ##Workshop Ideas##
