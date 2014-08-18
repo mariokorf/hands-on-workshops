@@ -35,6 +35,7 @@ Think about what you needed help with when you first started using Salesforce an
 * How to use Flows 
 * More with analytics
 * Service Cloud something or other 
+* Something with Heroku (extra points)
 
 #Past Workshops#
 In the past, we’ve run the following workshops. Some of these (especially the more advanced/code ones) need updating. But for the most part, we want fresh ideas. 
