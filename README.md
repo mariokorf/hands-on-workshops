@@ -19,8 +19,11 @@ If you have an idea for a workshop that is shorter than 40 minutes, no problem. 
 * Author in Markdown (we’ll publish in GitBook); do slides as a Google Presentation. 
 * Update this [spreadsheet](https://docs.google.com/spreadsheets/d/1IJX-_5f6sT04XKLluIglWK8PWDwk5ERZiACYPrJC7DA/edit#gid=0) so everyone knows who’s doing what.
 * Have your submissions in by Sept 15th so we have time to edit, approve, and get comments back to you. 
-* 
-* Google preson example
+
+###Presentations##
+The slide show is usually very basic, just a couple screen shots and some speaker notes so that the presenter can introduce the scope and flow of your tutorial. If you are going to be at Dreamforce and want to present your own workshop, let us know! There will be some logistics so that we can fit your schedule into the workshop schedule, but there will be some extra incentive points for you!  
+
+A sample slide deck is [here](https://docs.google.com/presentation/d/1UBujKdJGa8IS7QxlOHuucfA-BuYSPDYxZGS7856WrfE/edit?usp=sharing).
 
 
 ##Workshop Ideas##
