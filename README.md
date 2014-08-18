@@ -2,7 +2,7 @@ hands-on-workshops
 ==================
 Hands-on workshops are short tutorials we use at Dreamforce in the Developer Zone. These tutorials resemble exercises from the Force.com Workbook and Elevate series. Typically hands-on workshop start with a 10-minute slide presentation that introduces the tutorial, followed by 40 minutes of exercises, and then 10 minutes break between the next session. (60 minutes total). 
 
-##Influitive Challenge#
+#Influitive Challenge#
 This year we are opening up the workshop topics to ideas from our community. 
 * What did you find challenging when you first started developing for Salesforce? 
 * What are some of your best practices? 
@@ -12,7 +12,7 @@ Write up a tutorial and submit it. We'll help with the editing and publishing. Y
 
 If you have an idea for a workshop that is shorter than 40 minutes, no problem. We may try and fit some shorter workshops this year: 5-minute slides and intro, 20 minutes of hands-on tutorial, and 5 minutes of break between sessions. Or we might merge some shorter workshops into a larger one. Either way, don't let the length of the workshop restrict what you want to teach. We'll make it work out. 
 
-#Guidelines#
+##Guidelines##
 * Emulate the style of the [Force.com Workbook](https://developer.salesforce.com/docs/atlas.en-us.workbook.meta/workbook/create_app_1.htm). 
 * Use the standard objects and data that comes in Developer Edition: Accounts, Contacts, etc. If the tutorial scenario absolutely requires custom objects or data, make a case for it. If your custom objects can use the Warehouse schema, so much the better. 
 * Design around 20 or 40 minutes of hands-on material, but don't sweat the details too much. 
@@ -20,7 +20,7 @@ If you have an idea for a workshop that is shorter than 40 minutes, no problem. 
 * Update this [spreadsheet](https://docs.google.com/spreadsheets/d/1IJX-_5f6sT04XKLluIglWK8PWDwk5ERZiACYPrJC7DA/edit#gid=0) so everyone knows who’s doing what.
 
 
-##Some Ideas##
+##Workshop Ideas##
 Think about what you needed help with when you first started using Salesforce and Force.com. Here are some ideas for hands-on workshops that we’ve never done. 
 
 * Going in-depth into SOQL and SOSL 
@@ -30,7 +30,7 @@ Think about what you needed help with when you first started using Salesforce an
 * More with analytics
 * Service Cloud something or other 
 
-##Past Workshops##
+#Past Workshops#
 In the past, we’ve run the following workshops. Some of these (especially the more advanced/code ones) need updating. But for the most part, we want fresh ideas. 
 
 ###Create an App and Database###
