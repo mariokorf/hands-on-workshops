@@ -12,16 +12,20 @@ Write up a tutorial and submit it. We'll help with the editing and publishing. Y
 
 If you have an idea for a workshop that is shorter than 40 minutes, no problem. We may try and fit some shorter workshops this year: 5-minute slides and intro, 20 minutes of hands-on tutorial, and 5 minutes of break between sessions. Or we might merge some shorter workshops into a larger one. Either way, don't let the length of the workshop restrict what you want to teach. We'll make it work out. 
 
-##Guidelines##
-* Emulate the style of the [Force.com Workbook](https://developer.salesforce.com/docs/atlas.en-us.workbook.meta/workbook/create_app_1.htm). 
-* Use the standard objects and data that comes in Developer Edition: Accounts, Contacts, etc. If the tutorial scenario absolutely requires custom objects or data, make a case for it. If your custom objects can use the Warehouse schema, so much the better. 
-* Design around 20 or 40 minutes of hands-on material, but don't sweat the details too much. 
-* Author in Markdown (we’ll publish in GitBook); do slides as a Google Presentation. 
-* Update this [spreadsheet](https://docs.google.com/spreadsheets/d/1IJX-_5f6sT04XKLluIglWK8PWDwk5ERZiACYPrJC7DA/edit#gid=0) so everyone knows who’s doing what.
-* Have your submissions in by Sept 15th so we have time to edit, approve, and get comments back to you. 
+#Partners#
+Salesforce Partners are also welcome to submit workshops. The guidelines for creating content and presentations are the same, however you must provide a presenter and two staff members to assist customers. 
 
-###Presentations##
-The slide show that precedes the workshop is usually very basic, just a couple screen shots and some speaker notes so that the presenter can introduce the scope and flow of your tutorial. If you are going to be at Dreamforce and want to present your own workshop, let us know! There will be some logistics so that we can fit your schedule into the workshop schedule, but there will be some extra incentive points for you!  
+
+#Guidelines#
+* In general, you should emulate the style of the [Force.com Workbook](https://developer.salesforce.com/docs/atlas.en-us.workbook.meta/workbook/create_app_1.htm). 
+* Use the standard objects and data that comes in Developer Edition: Accounts, Contacts, etc. If the tutorial scenario absolutely requires custom objects or data, make a case for it. If your custom objects can use the Warehouse schema, so much the better. 
+* Design around 30 or 60 minutes of hands-on material. Partners must use 30 minutes (5 minutes slides, 20 minutes hands-on, 5 minutes between sessions).
+* Author in Markdown (we’ll publish in GitBook); do slides as a Google Presentation. If this is a problem, share a Google doc with me (mario.korf@gmail.com) and I'll tag it in Markdown. 
+* Update this [spreadsheet](https://docs.google.com/spreadsheets/d/1IJX-_5f6sT04XKLluIglWK8PWDwk5ERZiACYPrJC7DA/edit#gid=0) so everyone knows who’s doing what. There is a separate tab for Partners. 
+* Have your submissions in by Sept 15th so we have time to edit, approve, and get comments back to you. Partners may get a slightly later date, as we'll have a smaller print run. 
+
+##Presentations##
+The slide show that precedes the workshop is usually very basic, just a couple screen shots and some speaker notes so that the presenter can introduce the scope and flow of your tutorial. If you are going to be at Dreamforce and want to present your own workshop, let us know! There will be some logistics so that we can fit your schedule into the workshop schedule. It is assumed Partners will bring their own staff for the workshops.
 
 A sample slide deck is [here](https://docs.google.com/presentation/d/1UBujKdJGa8IS7QxlOHuucfA-BuYSPDYxZGS7856WrfE/edit?usp=sharing).
 
