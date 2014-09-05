@@ -1,4 +1,4 @@
-**Access the App from a Mobile Device**
+#Access the App from a Mobile Device#
 
 **Level: **Beginner; **Duration: **5–10 minutes
 
@@ -6,16 +6,15 @@ The simple app you created is already accessible as a mobile app. What? Truly! M
 
 For the warehouse use case, you can imagine workers in a warehouse typically need to make a physical check of the inventory. Rather than lug around a laptop or transfer data by pen and paper, they can update on the go, right on the phone. This in turn might be useful to a service technician on the road, who can instantly see which products are and aren’t available.
 
-**Step 1: Set Up Mobile Access**
+##Step 1: Set Up Mobile Access##
 
 There are two ways to access Salesforce1: using a downloadable app or a mobile browser app. **1. **First, you need to be able to access Salesforce1:
 
 - To use the downloadable app, use your mobile device’s browser to go to www.salesforce.com/mobile, select the appropriate platform, and download Salesforce1. 
 - To enable the mobile browser app, from Setup click **Mobile Administration **&gt; **Salesforce1**, and then **Enable the Salesforce mobile browser app**. Now, when you navigate to login.salesforce.com from your mobile browser, Salesforce will recognize that you’re working from a mobile device and redirect you to the Salesforce1 mobile browser app. 
 
-**9**
 
-Create an App and Database Step 2: Try Out the Mobile App
+##Step 2: Try Out the Mobile App##
 
 1. **Open Salesforce1 from your mobile device. **
 2. **Enter your Salesforce credentials and tap Log in to Salesforce. **
@@ -36,11 +35,10 @@ Start the mobile app and then look at how the Merchandise tab and its fields app
 4. **Tap in the left corner to open the navigation menu. **
 5. **Scroll down and tap More. **
 
-**10**
 
-Create an App and Database Step 3: Explore the Mobile App
+##Step 3: Explore the Mobile App##
 
-**6. **Tap**Merchandise**.
+Tap **Merchandise**.
 
 1. **You can easily create a new piece of merchandise from the mobile device. Tap New. **
 2. **Name it ****E–reader****, and then tap Save. **
@@ -56,9 +54,8 @@ You probably noticed that unlike the full Salesforce site, there isn’t a Home 
 
 You get a lot of functionality out of the box with Salesforce1. Take a moment to explore what’s there. 
 
-**11**
 
-Create an App and Database Add Fields to an Object
+##Create an App and Database Add Fields to an Object##
 
 1. **You should still be on the detail page for your new merchandise item. You can Edit, Clone, or Delete this record from its _detail page_. **
 2. **Swipe left and you’ll see there’s a page for activities related to this item. This is the _related information page_. **
