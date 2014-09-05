@@ -52,7 +52,7 @@ You get a lot of functionality out of the box with Salesforce1. Take a moment to
 post you created in the feed for the e-reader. Anyone who follows that item will get updates for it.
 7. Tap icon, and this time tap New Task.
 8. In Subject, type *Enter a price*, and for Due Date, tap the calendar and choose **Today.**
-9. Tap ##Submit.##
+9. Tap **Submit.**
 10. From the detail page, swipe left and tap Open Activities, and you’ll see the task you created for yourself.
 
 As you can see, you get the same functionality from the mobile app as you do in the full site—just the controls and navigation are different.
