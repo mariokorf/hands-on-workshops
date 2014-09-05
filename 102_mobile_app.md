@@ -11,10 +11,7 @@ For the warehouse use case, you can imagine workers in a warehouse typically nee
 There are two ways to access Salesforce1: using a downloadable app or a mobile browser app. First, you need to be able to access Salesforce1:
 
 - To use the downloadable app, use your mobile device’s browser to go to www.salesforce.com/mobile, select the appropriate platform, and download Salesforce1. 
-- To enable the mobile browser app, from Setup click **Mobile Administration **&gt; **Salesforce1**, and then **Enable the Salesforce mobile browser app**. Now, when you navigate to login.salesforce.com from your mobile browser, Salesforce will recognize that you’re working from a mobile device and redirect you to the Salesforce1 mobile browser app. 
-
-
-##Step 2: Try Out the Mobile App##
+- To enable the mobile browser app, from Setup click **Mobile Administration &gt; Salesforce1**, and then **Enable the Salesforce mobile browser app**. Now, when you navigate to login.salesforce.com from your mobile browser, Salesforce will recognize that you’re working from a mobile device and redirect you to the Salesforce1 mobile browser app. 
 
 1. Open Salesforce1 from your mobile device.
 2. Enter your Salesforce credentials and tap Log in to Salesforce.
@@ -25,6 +22,8 @@ The downloadable mobile app is usually preferable because the following features
 
 - **Today **helps users plan for and manage their day by integrating calendar events from their mobile device with their Salesforce tasks, contacts, and accounts. 
 - **Push notifications **alert users to important things when they aren’t using the app.   
+
+##Step 2: Try Out the Mobile App##
 
 1. Tap the hamburger.
 2. Tap More...
