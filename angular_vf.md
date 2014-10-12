@@ -1,8 +1,5 @@
 #Build your first Angular.js App on Visualforce
 
-##Slide introduction
-[[slides]]
-
 ##Getting your own Dev org
 We'll be using a developer org to create our Angular.js App. If you don't already have access to a new, or lightly used developer org follow these steps:
 
