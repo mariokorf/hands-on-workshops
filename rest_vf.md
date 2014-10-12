@@ -1,5 +1,5 @@
 #Building REST APIs with Apex
-## Paul Battison
+by Paul Battison
 
 ## Introduction
 
