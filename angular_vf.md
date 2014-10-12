@@ -6,7 +6,7 @@
 ##Getting your own Dev org
 We'll be using a developer org to create our Angular.js App. If you don't already have access to a new, or lightly used developer org follow these steps:
 
-1. __Visit__ [http://sforce.co/1lDjwiH](http://sforce.co/1lDjwiH) 
+1. __Visit__ [http://goo.gl/CfYHVR](http://goo.gl/CfYHVR) 
 2. __Email:__ Any email address you can currently reach
 3. __Username:__ Anything in the form of an email _(Example: Tessa-AngularOnVf@example.com)_
 4. Check your email. You'll be getting an activation link you need to click to set your password.
