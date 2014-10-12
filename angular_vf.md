@@ -3,7 +3,7 @@
 ##Getting your own Dev org
 We'll be using a developer org to create our Angular.js App. If you don't already have access to a new, or lightly used developer org follow these steps:
 
-1. __Visit__ [http://goo.gl/CfYHVR](http://goo.gl/CfYHVR) 
+1. __Visit__ [http://bit.ly/MiniWorkshopsArea](http://bit.ly/MiniWorkshopsArea) 
 2. __Email:__ Any email address you can currently reach
 3. __Username:__ Anything in the form of an email _(Example: Tessa-AngularOnVf@example.com)_
 4. Check your email. You'll be getting an activation link you need to click to set your password.
@@ -11,7 +11,7 @@ We'll be using a developer org to create our Angular.js App. If you don't alread
 ##Installing Resources
 Angular.js is an application framework, and as such doesn't provide things like styling or icons. As a result there are numerous files we need to get setup. The link below will install an *unmanaged* package in your development org that contains all the files we need to get up and running. 
 
-[Click this to install the unmanaged package from http://sforce.co/VOpT83](http://sforce.co/VOpT83)
+[Click this to install the unmanaged package from http://goo.gl/CfYHVR](http://goo.gl/CfYHVR)
 
 ##Editing Javascript
 1. login to your developer org, and navigate to:
