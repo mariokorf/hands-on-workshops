@@ -15,20 +15,20 @@ Angular.js is an application framework, and as such doesn't provide things like 
 
 ##Editing Javascript
 1. login to your developer org, and navigate to:
-	- setup â†’ develop â†’ static resources
-2. Click on the "app" static resource
-3. Click "view file" to download the zip file to your computer.
+	- **Setup | Develop | Static resources**
+2. Click on the **App** static resource
+3. Click **View file** to download the zip file to your computer.
 4. Find where your computer has downloaded the file, and unzip it.
 
-This zip file contains all the javascript, css and image resources needed to bootstrap an AngularJs app in visualforce. It is effectively a "seed" of a project. 
+This zip file contains all the JavaScript, CSS and image resources needed to bootstrap an AngularJs app in Visualforce. It is effectively a "seed" of a project. 
 
 ##Creating the Visualforce page
-Our application's view templates will be visualforce pages, and we'll need to create a visualforce page to host our angular app. 
+Our application's view templates will be Visualforce pages, and we'll need to create a Visualforce page to host our angular app. 
 
 1. In your Developer org, open up the Dev console by navigating to: 
-	- Name Menu â†’ Developer Console
+	- **Your Name | Developer Console**
 2. We'll be doing some of our work here in the developer console, so don't close this window.
-3. Use the file â†’ new menu and select "visualforce page"
+3. Use the **File | New** menu and select **Visualforce page**
 4. When prompted, provide the name "MasterApp" for the name.
 5. Alter the opening Apex:page tag to include the following attributes:
 	- ```showHeader="false"```
@@ -36,14 +36,14 @@ Our application's view templates will be visualforce pages, and we'll need to cr
 	- ```standardStylesheets="false"```
 	- ```docType="html-5.0"```
 6. Quick save your page. (cmd-s / ctrl-s)
-7. The unmanaged package installed earlier installed a couple of custom visualforce components. Those components handle loading all the various JS files for us. Include those by putting this between the apex:page tags
+7. The unmanaged package installed earlier installed a couple of custom Visualforce components. Those components handle loading all the various JS files for us. Include those by putting this between the apex:page tags
 	- ```<c:ngApp>```
 	- ```<c:ngForce/>```
 
 ##The ng-app directive
-As we talked about during the slideshow, Angular activates when it fines the attribute ```ng-app="app_name_here"``` on a container element (div, body, etc.) We'll need to create a div to contain our Angular app and include the ```ng-app``` attribute to active angular.
+As we talked about during the slideshow, Angular activates when it finds the attribute ```ng-app="app_name_here"``` on a container element (div, body, etc.) We'll need to create a div to contain our Angular app and include the ```ng-app``` attribute to active angular.
 
-1. In your "MasterApp" visualforce page create a new blank line after the ```<c:ngForce/> tag
+1. In your "MasterApp" Visualforce page create a new blank line after the ```<c:ngForce/> tag.
 2. Create a div tag, and include the ```ng-app="df14"``` attribute. Or copy this code into place:
 
 ```html
@@ -58,26 +58,26 @@ At this point, our basic Angular app is almost complete, but it doesn't do anyth
 
 In your dev org, visit [instance.salesforce.com/apex/masterApp](instance.salesforce.com/apex/masterApp) making sure you replace instance with the naX prefix present in your current URL.
 
-This is your AngularJs app, running inside visualforce.
+This is your AngularJs app, running inside Visualforce.
 
-Open the javascript console and observe the errors.
+Open the JavaScript console and observe the errors.
 
 ##Accessing Salesforce Records
-We want our Angular app to be able to create, display, edit and delete salesforce records. To do this, we'll need to create a controller, and use the ngForce library to access Salesforce data.
+We want our Angular app to be able to create, display, edit and delete Salesforce records. To do this, we'll need to create a controller, and use the ngForce library to access Salesforce data.
 
-1. With your favorite code editor, open up the directory where you unzipped our static resource file.
-2. Open the resources â†’ controllers â†’ masterAppPageCtrl.js file
+1. With your favorite code editor, open up the directory where you unzipped the static resource file.
+2. Open the **Resources | Controllers | masterAppPageCtrl.js** file.
 3. About half way down you'll find a soql query. Add the word "Account" to the query, and save the file.
 4. Using your OS's built in zip function zip up the resources folder and upload to Salesforce by navigating to:
-	- setup â†’ develop â†’ static resources â†’ app
-	- clicking the edit button
-	- clicking the choose file button
-	- select your new resources.zip file and click "choose"
-	- click the "Save" button
+	- **Setup | Develop | Static Resources | App.
+	- clicking the **Edit** button
+	- clicking the **Choose file** button
+	- select your new resources.zip file and click **Choose**
+	- click the **Save** button
 5. Reload your MasterApp page in another window. The javascript errors are gone -- because the query is valid now. However, we still don't see any account information.
-6. In the Developer Console, open up the visualforce page named "df14_nav" by:
-	- Clicking file â†’ Open â†’ selecting the "df14_nav" page
-7. Create a unordered list tag ```<ul>``` and create a single ```<li>``` element within it. 
+6. In the Developer Console, open up the Visualforce page named "df14_nav" by:
+	- Clicking **File | Open** and selecting the "df14_nav" page
+7. Create an unordered list tag ```<ul>``` and create a single ```<li>``` element within it. 
 8. Add an Angular repeat ```ng-repeat``` attribute to the ```<li>``` element with the expression ```acct in accounts``` Your ```<ul>``` block should look like this:
 
 ```html
@@ -94,4 +94,4 @@ Note that we'll use the iteration variable acct, created by Angular when we said
 
 ##Conclusion
 
-You've now created an Angular.js app on visualforce, complete with a controller and a couple of views. You've integrated it to Salesforce and are displaying account names as an unordered list in your app! 
+You've now created an Angular.js app on Visualforce, complete with a controller and a couple of views. You've integrated it to Salesforce and are displaying account names as an unordered list in your app! 
